@@ -1,0 +1,11 @@
+﻿  main.cpp
+d:\almir\программирование\с++\sfml\sfml_move_circles\win32project4\main.cpp(1): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+  Mirror.cpp
+d:\almir\программирование\с++\sfml\sfml_move_circles\win32project4\circleobject.h(3): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+  LazerGun.cpp
+d:\almir\программирование\с++\sfml\sfml_move_circles\win32project4\circleobject.h(3): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+  Glass.cpp
+d:\almir\программирование\с++\sfml\sfml_move_circles\win32project4\circleobject.h(3): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+  CircleObject.cpp
+d:\almir\программирование\с++\sfml\sfml_move_circles\win32project4\circleobject.h(3): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+  Создание кода...
